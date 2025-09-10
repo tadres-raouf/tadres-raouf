@@ -28,5 +28,5 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
-<!-- إحصائيات اللغات الأكثر استخدامًا بشكل ديناميك -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadres-raouf&layout=compact)
+<!-- إحصائيات اللغات الأكثر استخدامًا مع استبعاد Python + Shell + PowerShell + C -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadres-raouf&hide=python,shell,powershell,c&layout=compact)
