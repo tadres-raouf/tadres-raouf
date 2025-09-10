@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<img align="right" src="https://raw.githubusercontent.com/tadres-raouf/tadres-raouf/main/github-profile.png" width="30%">
 <h1>
   Hi There I'm Tadres Raouf
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -29,4 +29,4 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
 <!-- إحصائيات اللغات الأكثر استخدامًا بشكل ديناميك -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadres-raouf&layout=compact)
